@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu GitHub! 👋
 
-#### Sou um Analista Sênior apaixonado por criar soluções inovadoras que impulsionam negócios e facilitam a vida das pessoas. Combino habilidades técnicas e criatividade para transformar ideias em realidade digital. Com anos de experiência no desenvolvimento de software, estou sempre em busca de tecnologias emergentes e tendências do setor.
+Sou um Analista Sênior apaixonado por criar soluções inovadoras que impulsionam negócios e facilitam a vida das pessoas. Combino habilidades técnicas e criatividade para transformar ideias em realidade digital. Com anos de experiência no desenvolvimento de software, estou sempre em busca de tecnologias emergentes e tendências do setor.
 
 Minha paixão por programação e resolução de problemas me levou a dominar diversas linguagens, frameworks e ferramentas, permitindo oferecer soluções personalizadas e escaláveis para atender às necessidades específicas dos projetos.
 
