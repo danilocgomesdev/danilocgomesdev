@@ -8,5 +8,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilocgomesdev&show_icons=true&theme=radical)
 
-[![Website](https://img.shields.io/website?label=danilocgomes.dev&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://sujeitoprogramador.com](https://danilocgomes.dev/))
+[![Website](https://img.shields.io/website?label=danilocgomes.dev&style=for-the-badge&url=https://danilocgomes.dev/)]([https://danilocgomes.dev/](https://danilocgomes.dev/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devdocerrado)
