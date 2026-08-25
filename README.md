@@ -1,9 +1,8 @@
 ## Bem-vindo(a) ao meu GitHub! 👋
 
-Sou um Analista Sênior apaixonado por criar soluções inovadoras que impulsionam negócios e facilitam a vida das pessoas. Combino habilidades técnicas e criatividade para transformar ideias em realidade digital. Com anos de experiência no desenvolvimento de software, estou sempre em busca de tecnologias emergentes e tendências do setor.
+Analista Sênior com foco em integrações de sistemas e arquitetura Java. Construo middlewares que conectam sistemas complexos de forma confiável e escalável, transformando requisitos de negócio em soluções técnicas que funcionam em produção. No dia a dia, trabalho com Java, TypeScript, React e Node.js — sempre buscando a solução mais simples que resolve o problema. Tenho experiência com APIs REST, processamento assíncrono, arquiteturas distribuídas e integração com sistemas legados. Acredito que bom software nasce de código limpo, decisões pragmáticas e comunicação clara entre times técnicos e de negócio.
 
-Minha paixão por programação e resolução de problemas me levou a dominar diversas linguagens, frameworks e ferramentas, permitindo oferecer soluções personalizadas e escaláveis para atender às necessidades específicas dos projetos.
-
+Senior Analyst focused on system integrations and Java architecture. I build middleware that connects complex systems in a reliable and scalable way, turning business requirements into technical solutions that work in production. On a daily basis, I work with Java, TypeScript, React and Node.js — always looking for the simplest solution that gets the job done. I have experience with REST APIs, asynchronous processing, distributed architectures and legacy system integration. I believe great software comes from clean code, pragmatic decisions and clear communication between technical and business teams.
 ---
 
 ![Estatísticas do GitHub](https://github-readme-stats-danilocg07-8691s-projects.vercel.app/api?username=danilocgomesdev&show_icons=true&theme=radical&v=2)
